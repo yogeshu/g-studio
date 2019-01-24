@@ -1,0 +1,25 @@
+{
+  "name": "rubik-googlefont",
+  "license": "OFL",
+  "authors": [
+    "Hubert and Fischer"
+  ],
+  "homepage": "https://fonts.google.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/google-fonts-bower/rubik-bower.git"
+  },
+  "description": "Rubik font",
+  "keywords": [
+    "font",
+    "SANS_SERIF"
+  ],
+  "_release": "a23ec91574",
+  "_resolution": {
+    "type": "commit",
+    "commit": "a23ec91574"
+  },
+  "_source": "https://github.com/google-fonts-bower/rubik-bower.git",
+  "_target": "a23ec91574",
+  "_originalSource": "rubik-googlefont"
+}
